@@ -4,7 +4,7 @@
   NJIIRI YVONNE:https://github.com/njiiri12
 
 ## Contributors
-Njiiri yvonne
+Njiiri 
 ***
 ## Description of the project's purpose.
 The project is basically a portfolio of Delani studio,it also shows the services it offers and the informationof the studio.
