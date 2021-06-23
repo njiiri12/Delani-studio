@@ -20,7 +20,7 @@ Technologies used:
 ## Installation Instructions.
 * Open Terminal
 * git clonehttps://github.com/njiiri12/Delani-studio.git
-* Open the file via Atom or vs ```
+* Open the file via Atom ```
 
 ```
 *
