@@ -1,0 +1,135 @@
+#landing1{
+    background: url("../images/backgrounds/h_img.jpg ");
+    background-position:center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman';
+    width:100%;
+    margin-top: 1cm;
+padding-top: 3.5cm;
+}
+/* #mouse-click{
+padding-top: 20px;
+margin-top:7.5%;
+padding-bottom:28px;
+ 
+}
+#mouse-click{
+animation:bounce 2s infinite;
+} */
+#mouse{
+    animation: bounce 3s infinite;
+    padding-top: 22px;
+    margin-top: 10%;
+    padding-bottom: 25px;
+}
+#mouse-click {
+  padding-top: 22px;
+  margin-top: 10%;
+  padding-bottom: 30px;
+  /* animation-iteration-count: infinite; */
+}
+#mouse-click {
+  animation: bounce 3s infinite;
+}
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100%{
+      transform: translateY(0);
+  }
+  40% {
+      transform: translateY(-55px);
+  }
+  60% {
+      transform: translateY(-45px);
+  }
+}
+
+.what{
+    font-weight: bolder;
+}
+.portfolio1{
+    font-weight: bolder;
+}
+
+#landing1{
+    padding: 50px;
+}
+#about-us{
+    padding: 50px;
+}
+#service{
+    padding: 50px;
+}
+#what{
+    padding: 50px;
+}
+#port{
+    padding: 50px;
+}
+#contact{
+    padding: 50px;
+    background-image: url(../images/backgrounds/c_image.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
+}
+#foot{
+    padding: 50px;
+}
+
+#design{
+    display: none;
+}
+#design2{
+    display: none;
+}
+#design3{
+    display: none;
+}
+
+.p3{
+    text-align: center;
+    font-weight: bolder;
+}
+
+.hoover2, .hoover3, .hoover4, .hoover5, .hoover6, .hoover7, .hoover8,.hoover9 {
+    height: 70%;
+    width: 70%;
+    background: none;
+    top: 0px;
+    border: 10px solid blue;
+    color: blue;
+    text-align: left !important;
+    padding: 20px;
+    display: none;
+  }
+
+
+
+ body {
+     text-align: center;
+ }
+.services {
+    background: url("../images/backgrounds/s_image.jpg ");
+    color: white;
+}
+
+.col-md-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
