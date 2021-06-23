@@ -12,7 +12,7 @@ The project is basically a portfolio of Delani studio,it also shows the services
 ## Technologies Used
 Technologies used:
 * HTML
-* 
+* BOOTSTRAP
 * CSS
 *jQuery
 
